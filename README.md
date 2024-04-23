@@ -1,0 +1,1 @@
+# dero-16core
